@@ -8,7 +8,9 @@ You can install `u-so-random` using npm or yarn:
 
 ```bash
 npm install u-so-random
+```
 
+```bash
 yarn add u-so-random
 ```
 
