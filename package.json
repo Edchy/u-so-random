@@ -1,6 +1,6 @@
 {
   "name": "u-so-random",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Simple JavaScript library to generate random numbers between specified minimum and maximum values.",
   "main": "index.js",
   "scripts": {

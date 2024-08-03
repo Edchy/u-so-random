@@ -4,7 +4,7 @@ A simple JavaScript library for generating random numbers within a specified ran
 
 ## Installation
 
-You can install `u-so-random` using npm or yarn:
+You can install `u-so-random` using npm or yarn like so:
 
 ```bash
 npm install u-so-random
